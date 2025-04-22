@@ -1,0 +1,5 @@
+# 忽略 data 文件夹下的所有内容
+data/*
+
+# 保留占位文件 .gitkeep
+!data/.gitkeep
